@@ -4,6 +4,7 @@
 
 - [Overview](#Overview)
 - [View Web App Locally](#View-Web-App-Locally)
+- [Leaflet.js and Mapbox](#Leaflet.js-and-Mapboxy)
 
 ## Overview
 
@@ -17,6 +18,6 @@
 2. With your server running, visit the site: `http://localhost:8000`.
 3. If the site deosnt appear to be working as intended re-fresh the page and clear the stored caches to reset the page. 
 
-## Leaflet.js and Mapbox:
+## Leaflet.js and Mapbox
 
 This repository uses [leafletjs](https://leafletjs.com/) with [Mapbox](https://www.mapbox.com/). You need to replace `<your MAPBOX API KEY HERE>` with a token from [Mapbox](https://www.mapbox.com/). Mapbox is free to use, and does not require any payment information.
