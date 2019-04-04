@@ -1,5 +1,7 @@
 # Restaurants Reviews App
 
+<img src="https://github.com/H-R-Design/Udacity-FEND-Classic-Arcade-Game/blob/gh-pages/images/Arcade%20game.png" alt="drawing" width="400" height= "431"/>
+
 ## Table of Contents
 
 - [Overview](#Overview)
