@@ -7,6 +7,7 @@
 - [Leaflet.js and Mapbox](#Leaflet.js-and-Mapboxy)
 
 ## Overview
+Take a static design that lacks accessibility and convert the design to be responsive on different sized displays and accessible for screen reader use. Add a service worker to begin the process of creating a seamless offline experience for the user.
 
 ## View Web App Locally
 
